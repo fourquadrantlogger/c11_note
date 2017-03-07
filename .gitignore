@@ -1,2 +1,5 @@
 /.vscode
+/.anjuta
+/.idea
+.anjuta_sym_db.db
 *.out
