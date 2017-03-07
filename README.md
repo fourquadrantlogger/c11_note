@@ -3,3 +3,4 @@
 ## ubuntu c++
 
 http://wiki.ubuntu.com.cn/C_Cpp_IDE
+
